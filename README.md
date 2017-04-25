@@ -1,5 +1,5 @@
 ### Please feel free to Contact me
-email: LTowner622@gmail.com
+Email: LTowner622@gmail.com
 ---
 [Linkedin](https://www.linkedin.com/in/lmtowner/)
 ---
