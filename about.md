@@ -13,4 +13,3 @@ When I am not in my command line, you can either find me playing with puzzles, c
 ## Contact me
 
 [LTowner622@gmail.com](mailto:ltowner622@gmail.com)
-s
