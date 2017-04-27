@@ -2077,11 +2077,11 @@
 
 			ul.feature-icons li {
 				text-decoration: none;
-				/*display: inline-block;*/
+				display: inline-block;
 				display: block;
 				float: left;
 				margin: 0 0 1.6875em 0;
-				/*padding: 0.35em 0 0 3.5em;*/
+				padding: 0.35em 0 0 3.5em;
 				position: relative;
 				vertical-align: top;
 				width: 25%;
@@ -2131,6 +2131,11 @@
 
 				ul.icons li .icon:before {
 					font-size: 1.25em;
+				}
+
+				footer {
+					border-top: 10em;
+
 				}
 
 		ul.actions {
@@ -2529,7 +2534,7 @@
 
 				#header > footer .icons li a {
 					/*color: #b6e9dc;*/
-					color: #cbdcec;
+					color: #ecf3f9;
 				}
 
 		#header > nav ul {
