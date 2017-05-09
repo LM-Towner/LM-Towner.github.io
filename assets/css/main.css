@@ -2603,7 +2603,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 20.3em;
+		height: 27.2em;
 		width: 100%;
 	}
 
@@ -3094,4 +3094,17 @@
 
 .fade-icon:hover {
 	opacity: 1;
+
+}
+
+/*Blog */
+#blog:before {
+	background-image: url("../../images/bricks.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	content: '';
+	display: block;
+	height: 10em;
+	width: 100%;
 }
