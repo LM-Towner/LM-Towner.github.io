@@ -3108,3 +3108,21 @@
 	height: 10em;
 	width: 100%;
 }
+
+.post {
+	font-size: 15px;
+}
+
+.date {
+	font-size: 10px;
+	font-style: bold;
+}
+
+.post-title {
+	font-size: 20px;
+}
+
+a {
+	font-style: bold;
+	color: #841F27;
+}
