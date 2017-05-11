@@ -1541,6 +1541,11 @@
 
 	}
 
+	a.icon:hover{
+    cursor: pointer;
+    font-size: 28px;
+}
+
 /* Basic */
 
 	body {
