@@ -3,7 +3,7 @@ Email: LTowner622@gmail.com
 ---
 [Linkedin](https://www.linkedin.com/in/lmtowner/)
 ---
-[Live- URL](http://lmtowner.me)
+[Portfolio Site](http://lmtowner.me)
 
 [Check out my blog](http://lmtowner.me/blog)
 
