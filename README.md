@@ -5,7 +5,7 @@ Email: LTowner622@gmail.com
 ---
 [Live- URL](http://lmtowner.me)
 
----
+[Check out my blog](http://lmtowner.me/blog)
 
 ### Copyright and license
 Filed under [the MIT license](/LICENSE).
