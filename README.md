@@ -1,8 +1,9 @@
-### Please feel free to Contact me
+Contact information: 
+
 Email: LTowner622@gmail.com
----
+
 [Linkedin](https://www.linkedin.com/in/lmtowner/)
----
+
 [Portfolio Site](http://lmtowner.me)
 
 [Check out my blog](http://lmtowner.me/blog)
