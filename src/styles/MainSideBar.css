@@ -1,0 +1,18 @@
+.components{
+  padding: 5%;
+}
+
+.profile-img {
+   max-width: 100%;
+   height: auto;
+  border-radius: 90%;
+}
+
+.title{
+  size: 10px;
+}
+
+#bio {
+border: black;
+ word-wrap: break-word;
+}
