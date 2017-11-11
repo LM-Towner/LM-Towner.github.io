@@ -20,7 +20,7 @@ export default class About extends Component {
         </p>
         <p>
           <i class="fa fa-phone" aria-hidden="true" />
-          <span className="text">PuppyChow@gmail.com</span>
+          <span className="text">555-234-2332</span>
         </p>
       </div>;
   }
