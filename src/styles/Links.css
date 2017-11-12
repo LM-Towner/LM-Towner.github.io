@@ -1,0 +1,13 @@
+.link-icon {
+  padding: 20px;
+  background-color: rgb(230, 232, 238);
+  display: inline-block;
+}
+
+.icon {
+  padding: 10px;
+}
+
+.link-icon {
+  border-radius: 10%;
+}
