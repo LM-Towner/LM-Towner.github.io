@@ -7,15 +7,15 @@ baseurl:  #'change it according to your repository name
 
 # Profile information
 yourname: La-Keisha M. Towner  ## put your name
-title: 'Web Developer &amp; Native App Developer'  ## your title
+title: 'Web Developer &amp; Native Mobile App Developer'  ## your title
 location: New York, NY
 
 
 ## Social Profiles
 linkedin: https://www.linkedin.com/in/lmtowner  ## your linkedin account url
 githhub: https://www.github.com/LM-Towner
-facebook: https://www.facebook.com/QuietLTStorm
-twitter: https://www.twitter.com/LMT_Developer
+## facebook: https://www.facebook.com/QuietLTStorm
+## twitter: https://www.twitter.com/LMT_Developer
 
 
 
